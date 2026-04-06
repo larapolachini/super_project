@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/catkin_ws/devel
+
+Name: my_traj
+Description: Description of my_traj
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
